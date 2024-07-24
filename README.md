@@ -10,7 +10,7 @@ This EFI is not the same with which uploaded by @Dreamwhite. The difference of t
 | Storage | Kingston SNV2S500G |
 | Audio Code |Realtek ALC295 (ALC3254)|
 | Wi-Fi Card | Intel Dual Band AC3165|
-|OS|macOS Monterey or macOS Ventura(for release on 23rd July)|
+|RAM|16 GB 2400 MHz DDR4|
 |BIOS|v1.10|
 ## Others/其他
 1. I am a senior high school student living in Suzhou, China, so obviously I am not a native-English speaker. I apologize for my bad grammar in this Readme :-(
