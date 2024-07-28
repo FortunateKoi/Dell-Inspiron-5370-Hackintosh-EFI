@@ -13,9 +13,9 @@ This EFI is not the same with which uploaded by @Dreamwhite. The difference of t
 |RAM|16 GB 2400 MHz DDR4|
 |BIOS|v1.10|
 ## Others/其他
-1. I am a senior high school student living in Suzhou, China, so obviously I am not a native-English speaker. I apologize for my bad grammar in this Readme :-(
+1. I live in Suzhou, China, so obviously I am not a native-English speaker. I apologize for my bad grammar in this Readme :-(
 
-我是一名居住在中国苏州市的高中生，所以显然我不是英语母语者。在此为我在本Readme中的语法错误事先道歉。:-( 
+我居住在中国的苏州，所以显然我不是英语母语者。在此为我在本Readme中的语法错误事先道歉。:-( 
 
 2. You can send emails to koi-95710@qq.com to give me a bug report. Please write emails in English or Simplified Chinese(Don't translate other language to Chinese by tools like Google translate because it is really hard to understand by native Chinese) otherwise I can not understand your report accurately. Also, please give me detailed information about the bug(s) as much as possible. Thank you very much! I will try my best to solve your problems within 15 days of you emailing me.
 
